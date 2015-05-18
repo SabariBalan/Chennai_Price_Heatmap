@@ -1,0 +1,5 @@
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/mapbox-directions.js/v0.0.1/mapbox.directions.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/plugins/mapbox-directions.js/v0.0.1/mapbox.directions.css' rel='stylesheet' type='text/css' />
+
+<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-image/v0.0.4/leaflet-image.js'></script>
+
